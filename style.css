@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-image: url(images/image\ 5\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+}
+
+.container{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header{
+    background-color: #000000;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    align-items: center;
+}
+
+.num{
+    width: 56px;
+}
+
+.num0{
+    background-color: #F1A900;
+    padding: 26px 49px;
+}
+
+.num1{
+    padding: 18px 172px;
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;;
+    align-items: center;
+}
+
+.navbar2{
+    background-color: #222222;
+}
+
+.num12{
+    background-color: #F1A900;
+    text-align: center;
+    color: #000000;
+    font-size: 40px;
+    padding: 25px 90px;
+}
+
+.num21{
+    background-color: #000000;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 40px;
+    padding: 25px 10px;
+}
+
+.top{
+    display: flex;
+    gap: 60px;
+    padding: 349px 480px 31px;
+}
+
+
+.num123{
+    background-color: #F1A90054;
+    color: #FFFFFF;
+    padding: 31px 22px;
+    width: 966px;
+    height: 202px;
+    border-radius: 10px;
+    margin-left: 263px;
+    font-size: 60px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: #000000;
+}
+
+.navbar3{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 52px;
+    align-items: center;
+}
+
+.num228{
+    padding: 18px 172px;
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;;
+    align-items: center;
+    width: 24px;
+
+}
